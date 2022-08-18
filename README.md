@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rivu-21
+- 👋 Hi, I’m Rivu Banerjee @Rivu-21
 - 👀 I’m interested in Coding, Cloud, AI, ML, BlockChain, 
 - 🌱 I’m currently B. Tech in Techno India University 
 - 💞️ I’m looking to collaborate on ...
