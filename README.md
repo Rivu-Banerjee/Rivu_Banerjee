@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding, Cloud, AI, ML, BlockChain, 
 - 🌱 I’m currently B. Tech in Techno India University 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me on LinkedIn @ https://www.linkedin.com/in/rivu-banerjee-21rb2021/ Instagram @ https://www.instagram.com/rivu.banerjee_official/ Facebook @ https://www.facebook.com/rivu.banerjee.official.2020
 
 <!---
 Rivu-21/Rivu-21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
