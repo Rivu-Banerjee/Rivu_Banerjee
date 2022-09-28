@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Rivu Banerjee @Rivu-21
-- 👀 I’m interested in Coding, Cloud, AI, ML, BlockChain, 
-- 🌱 I’m currently B. Tech in Techno India University 
-- 💞️ I’m looking to collaborate on ...
-- 📫 Reach me on LinkedIn @ https://www.linkedin.com/in/rivu-banerjee-21rb2021/ Instagram @ https://www.instagram.com/rivu.banerjee_official/ Facebook @ https://www.facebook.com/rivu.banerjee.official.2020
+- 👀 I’m interested in Competitive Coding, Cloud, AI, ML, BlockChain
+- 🌱 I’m currently studying B. Tech in Techno India University 
+- 📫 Reach me on 
+LinkedIn @ https://www.linkedin.com/in/rivu-banerjee-21rb2021/ 
+Instagram @ https://www.instagram.com/rivu.banerjee_official/ 
+Facebook @ https://www.facebook.com/rivu.banerjee.official.2020
 
 <!---
 Rivu-21/Rivu-21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
