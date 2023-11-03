@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rivu Banerjee @Rivu-21
-- 👀 I’m interested in CP, Cloud, AI, ML, BlockChain
+- 👀 I’m interested in CP, Cloud, Web Dev [MERN Stack], Android Dev [Kotlin], AI/ML
 - 🌱 I’m currently studying B. Tech in Techno India University 
 - 📫 Reach me on 
 LinkedIn @ https://www.linkedin.com/in/rivu-banerjee-21rb2021/
