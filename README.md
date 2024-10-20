@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rivu Banerjee @Rivu-Banerjee
-- 👀 I’m interested in CP, Cloud, Web Dev [MERN Stack], Data Analytics, AI/ML
+- 👀 I’m interested in CP, Cloud, Web Dev [MERN Stack], Data Analytics & AI/ML
 - 🌱 I’m currently Graduated from Techno India University in B. Tech CSBS
 - 📫 Reach me on 
 LinkedIn @ https://www.linkedin.com/in/rivu-banerjee/
